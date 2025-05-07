@@ -1,0 +1,7 @@
+langchain
+ollama
+requests
+python-dotenv
+langchain_community
+langchain-ollama
+aiohttp
